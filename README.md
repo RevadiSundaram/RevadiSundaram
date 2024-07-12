@@ -1,5 +1,5 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" />, I'm Revadi Sundaram</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Revadi Sundaram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
