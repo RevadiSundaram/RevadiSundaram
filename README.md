@@ -1,11 +1,11 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Revadi Sundaram</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Revadi Sundaram</h1>
 <h3 align="center">A Passionate Front-End Developer from India</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sundaramrevadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sundaramrevadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/revadisundaram07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revadisundaram07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/revadisundaram07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revadisundaram07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
