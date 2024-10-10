@@ -1,6 +1,23 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Revadi Sundaram</h1>
-<h3 align="center">A Passionate Front-End Developer from India</h3>
+<h3 align="center">Front-End Developer</h3>
+<p>
+  I'm a passionate Frontend Developer with experience in creating responsive, user-friendly web applications. My expertise lies in translating Figma designs into pixel-perfect, interactive, and optimized interfaces using HTML, CSS, JavaScript, and React. I enjoy crafting seamless user experiences, always keeping usability and performance in mind.
+
+I’ve worked on various projects, including:
+
+Food Ordering App: Integrated the Swiggy API to build a dynamic, real-time food ordering platform.
+Trade Deal Management Applications: Engineered features and optimized load times for improved performance and smoother user experience.
+UI/UX Optimization: Collaborated closely with design teams to implement best practices and deliver top-notch user interfaces.
+Some of the tools and practices I use:
+
+Responsive Web Design for mobile-first development
+Pair Programming and Test-Driven Development (TDD) for cleaner, maintainable code
+React.js for building dynamic, component-based applications
+I’m constantly learning and exploring new technologies to expand my skillset, and I’m excited about opportunities where I can contribute to innovative projects.
+
+Let's build something amazing together! 🌟
+</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
