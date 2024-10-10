@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Revadi Sundaram</h1>
 <p>
-  I'm a passionate <b>Frontend Developer</b> with experience in creating responsive, user-friendly web applications. My expertise lies in translating Figma designs into pixel-perfect, interactive, and optimized interfaces using <b>HTML, CSS, JavaScript, and React.</b> I enjoy crafting seamless user experiences, always keeping usability and performance in mind.
+  A passionate <b>Frontend Developer</b> with experience in creating responsive, user-friendly web applications. My expertise lies in translating Figma designs into pixel-perfect, interactive, and optimized interfaces using <b>HTML, CSS, JavaScript, and React.</b> I enjoy crafting seamless user experiences, always keeping usability and performance in mind.
 <br>
   <br>
 I’ve worked on various projects, including:
@@ -23,13 +23,13 @@ I’ve worked on various projects, including:
 Some of the tools and practices I use:
 <ul>
   <li>
-    Responsive Web Design for mobile-first development
+    <b>Responsive Web Design</b> for mobile-first development
   </li>
   <li>
-    Pair Programming and Test-Driven Development (TDD) for cleaner, maintainable code
+    <b>Pair Programming</b> and <b>Test-Driven Development (TDD)</b> for cleaner, maintainable code
   </li>
   <li>
-    React.js for building dynamic, component-based applications
+    <b>React</b> for building dynamic, component-based applications
   </li>
 </ul>
 I’m constantly learning and exploring new technologies to expand my skillset, and I’m excited about opportunities where I can contribute to innovative projects.
